@@ -1,4 +1,4 @@
-# Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video
+## Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video
 
 This repository is the official [Pytorch](https://pytorch.org/) implementation of MPS-Net. 
 For more results and video demos can be found at [here](https://mps-net.github.io/MPS-Net/).
