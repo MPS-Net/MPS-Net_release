@@ -11,9 +11,9 @@ The base codes are largely borrowed from [VIBE](https://github.com/mkocabas/VIBE
 
 > *Both authors contributed equally to this work
 
-## Getting Started
+### Getting Started
 
-## Evaluation
+### Evaluation
 
 - Download pre-trained MPS-Net weights from [here](https://drive.google.com/file/d/1GTy6uV5kgrhLv7Jpw8VDqDoeIVe9QC4Q/view?usp=sharing).  
 ```bash
@@ -21,10 +21,10 @@ The base codes are largely borrowed from [VIBE](https://github.com/mkocabas/VIBE
 python evaluate.py --dataset 3dpw --cfg ./configs/table1_3dpw_model.yaml --gpu 0 
 ```
 
-## License
+### License
 This project is licensed under the terms of the MIT license.
 
-## Citation
+### Citation
 
 ```bibtex
 @inproceedings{WeiLin2022mpsnet,
