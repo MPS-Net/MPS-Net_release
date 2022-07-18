@@ -48,6 +48,14 @@ PA-MPJPE: 52.1, MPJPE: 84.3, MPVPE: 99.7, ACC-ERR: 7.4
 
 ### Running the Demo
 
+```bash
+# Run on a local video
+python demo.py --vid_file sample_video.mp4 --output_folder output/ --display
+
+# Run on a YouTube video
+python demo.py --vid_file https://www.youtube.com/watch?v=wPZP8Bwxplo --output_folder output/ --display
+```
+
 ### License
 This project is licensed under the terms of the MIT license.
 
