@@ -41,6 +41,8 @@ You should be able to obtain the output below:
 PA-MPJPE: 52.1, MPJPE: 84.3, MPVPE: 99.7, ACC-ERR: 7.4
 ```
 
+### Running the Demo
+
 ### License
 This project is licensed under the terms of the MIT license.
 
