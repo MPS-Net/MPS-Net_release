@@ -13,7 +13,14 @@ The base codes are largely borrowed from [VIBE](https://github.com/mkocabas/VIBE
 
 ### Getting Started
 
-### Running MPS-Net
+
+### Evaluation
+
+First, you need download the required data(i.e our trained model and SMPL model parameters). To do this you can just run:
+
+```bash
+source scripts/prepare_data.sh
+```
 
 Download pre-processed data from [here](https://drive.google.com/drive/folders/1YTdq-9vP3E_eGDZXhxbHmxqDY6UIN_Cb?usp=sharing).
 
@@ -24,8 +31,6 @@ ${ROOT}
 |   |-- base_data  
 |   |-- preprocessed_data  
 ```
-
-### Evaluation
 
 Run the commands below to evaluate a pretrained model.
 ```bash
