@@ -18,7 +18,7 @@ LOSS:
 TRAIN:
   BATCH_SIZE: 32
   NUM_ITERS_PER_EPOCH: 500
-  PRETRAINED: 'data/base_data/model_best.pth.tar'      
+  PRETRAINED: 'data/base_data/mpsnet_model_best.pth.tar'      
   PRETRAINED_REGRESSOR: 'data/base_data/spin_model_checkpoint.pth.tar'
   RESUME: ''
   START_EPOCH: 0
