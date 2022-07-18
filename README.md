@@ -13,6 +13,18 @@ The base codes are largely borrowed from [VIBE](https://github.com/mkocabas/VIBE
 
 ### Getting Started
 
+### Running MPS-Net
+
+Download pre-processed data from [here](https://drive.google.com/drive/folders/1h0FxBGLqsxNvUL0J43WkTxp7WgYIBLy-?usp=sharing).
+
+The data directory structure should follow the below hierarchy.
+```
+${ROOT}  
+|-- data  
+|   |-- base_data  
+|   |-- preprocessed_data  
+```
+
 ### Evaluation
 
 - Download pre-trained MPS-Net weights from [here](https://drive.google.com/file/d/1GTy6uV5kgrhLv7Jpw8VDqDoeIVe9QC4Q/view?usp=sharing).  
