@@ -15,7 +15,7 @@ The base codes are largely borrowed from [VIBE](https://github.com/mkocabas/VIBE
 
 ### Running MPS-Net
 
-Download pre-processed data from [here](https://drive.google.com/drive/folders/1h0FxBGLqsxNvUL0J43WkTxp7WgYIBLy-?usp=sharing).
+Download pre-processed data from [here]().
 
 The data directory structure should follow the below hierarchy.
 ```
@@ -27,7 +27,7 @@ ${ROOT}
 
 ### Evaluation
 
-- Download pre-trained MPS-Net weights from [here]().  
+- Download pre-trained MPS-Net weights from [here](https://drive.google.com/file/d/1GTy6uV5kgrhLv7Jpw8VDqDoeIVe9QC4Q/view?usp=sharing).  
 ```bash
 # dataset: 3dpw
 python evaluate.py --dataset 3dpw --cfg ./configs/table1_3dpw_model.yaml --gpu 0 
