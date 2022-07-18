@@ -27,11 +27,12 @@ ${ROOT}
 
 ### Evaluation
 
-- Download pre-trained MPS-Net weights from [here](https://drive.google.com/file/d/1GTy6uV5kgrhLv7Jpw8VDqDoeIVe9QC4Q/view?usp=sharing).  
+Run the commands below to evaluate a pretrained model.
 ```bash
 # dataset: 3dpw
 python evaluate.py --dataset 3dpw --cfg ./configs/repr_table1_3dpw_model.yaml --gpu 0 
 ```
+- Download pre-trained MPS-Net weights from [here](https://drive.google.com/file/d/1GTy6uV5kgrhLv7Jpw8VDqDoeIVe9QC4Q/view?usp=sharing).  
 
 ### License
 This project is licensed under the terms of the MIT license.
