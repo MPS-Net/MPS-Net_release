@@ -8,7 +8,7 @@ Check our YouTube videos below for 5 minute video presentation of our work.
 
 [![PaperVideo](https://github.com/MPS-Net/MPS-Net_release/blob/main/Fig.png)](https://www.youtube.com/watch?v=lBZikM1vM60)
 
-### Getting Started
+### Installation
 
 This implementation has the demo and evaluation code for MPS-Net implemented in PyTorch.
 
@@ -28,7 +28,7 @@ source scripts/install_pip.sh
 source scripts/install_conda.sh
 ```
 
-### Evaluation
+### Getting Started
 
 First, you need download the required data(i.e our trained model and SMPL model parameters). To do this you can just run:
 
