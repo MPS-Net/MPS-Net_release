@@ -1,12 +1,22 @@
 ## Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video [CVPR 2022]
 
-This repository is the official [Pytorch](https://pytorch.org/) implementation of MPS-Net. 
+Our **M**otion **P**ose and **S**hape **N**etwork (MPS-Net) is a video pose and shape estimation method.
 
-For more results and video demos can be found at [here](https://mps-net.github.io/MPS-Net/).
+It predicts the parameters of SMPL body model for each frame of an input video. 
+
+Pleaser refer to our [arXiv report](https://arxiv.org/abs/2203.08534) for further details.
+
+Check our YouTube videos below for 5 minute video presentation of our work.
+
+[![PaperVideo](https://www.youtube.com/watch?v=rIr-nX63dUA)](https://www.youtube.com/watch?v=rIr-nX63dUA)
+
+### Getting Started
+
+This implementation has the demo and evaluation code for MPS-Net implemented in PyTorch.
 
 The base codes are largely borrowed from [VIBE](https://github.com/mkocabas/VIBE) and [TCMR](https://github.com/hongsukchoi/TCMR_RELEASE).
 
-### Getting Started
+
 
 
 ### Evaluation
