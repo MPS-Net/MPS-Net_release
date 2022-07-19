@@ -1,8 +1,6 @@
 ## Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video [CVPR 2022]
 
-Our **M**otion **P**ose and **S**hape **N**etwork (MPS-Net) is a video pose and shape estimation method.
-
-It predicts the parameters of SMPL body model for each frame of an input video. 
+Our **M**otion **P**ose and **S**hape **N**etwork (MPS-Net) is to effectively capture humans in motion to estimate accurate and temporally coherent 3D human pose and shape from a video.
 
 Pleaser refer to our [arXiv report](https://arxiv.org/abs/2203.08534) for further details.
 
