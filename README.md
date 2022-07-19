@@ -12,10 +12,21 @@ Check our YouTube videos below for 5 minute video presentation of our work.
 
 This implementation has the demo and evaluation code for MPS-Net implemented in PyTorch.
 
+MPS-Net has been implemented and tested on Ubuntu 18.04 with python >= 3.7. 
 
+Clone the repo:
+```bash
+git clone https://github.com/MPS-Net/MPS-Net_release.git
+```
 
+Install the requirements using `virtualenv` or `conda`:
+```bash
+# pip
+source scripts/install_pip.sh
 
-
+# conda
+source scripts/install_conda.sh
+```
 
 ### Evaluation
 
