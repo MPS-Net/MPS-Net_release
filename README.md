@@ -30,7 +30,7 @@ source scripts/install_conda.sh
 
 ### Getting Started
 
-First, you need download the required data (i.e., SMPL model parameters). To do this you can just run:
+First, you need download the required data (i.e our trained model and SMPL model parameters). To do this you can just run:
 
 ```bash
 source scripts/prepare_data.sh
@@ -45,8 +45,6 @@ ${ROOT}
 |   |-- base_data  
 |   |-- preprocessed_data  
 ```
-
-- Download our pre-trained MPS-Net model from [here](https://drive.google.com/file/d/1GTy6uV5kgrhLv7Jpw8VDqDoeIVe9QC4Q/view?usp=sharing).  
 
 ### Evaluation
 
