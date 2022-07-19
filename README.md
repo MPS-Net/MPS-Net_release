@@ -8,7 +8,7 @@ Pleaser refer to our [arXiv report](https://arxiv.org/abs/2203.08534) for furthe
 
 Check our YouTube videos below for 5 minute video presentation of our work.
 
-[![PaperVideo](https://www.youtube.com/watch?v=rIr-nX63dUA)](https://www.youtube.com/watch?v=rIr-nX63dUA)
+[![PaperVideo](https://github.com/MPS-Net/MPS-Net_release/blob/main/Fig.png)](https://www.youtube.com/watch?v=lBZikM1vM60)
 
 ### Getting Started
 
