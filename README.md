@@ -59,9 +59,6 @@ python demo.py --vid_file sample_video.mp4 --output_folder output/ --display
 python demo.py --vid_file https://www.youtube.com/watch?v=wPZP8Bwxplo --output_folder output/ --display
 ```
 
-### License
-This project is licensed under the terms of the MIT license.
-
 ### Citation
 
 ```bibtex
@@ -73,6 +70,9 @@ This project is licensed under the terms of the MIT license.
   year = {2022}
 }
 ```
+
+### License
+This project is licensed under the terms of the MIT license.
 
 ## References
 The base codes are largely borrowed from great resources [VIBE](https://github.com/mkocabas/VIBE) and [TCMR](https://github.com/hongsukchoi/TCMR_RELEASE).
