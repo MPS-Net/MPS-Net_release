@@ -51,7 +51,7 @@ ${ROOT}
 Run the commands below to evaluate a pretrained model.
 ```bash
 # dataset: 3dpw
-python evaluate.py --dataset 3dpw --cfg ./configs/repr_table1_3dpw_model.yaml --gpu 0 
+python evaluate.py --dataset 3dpw --cfg ./configs/repr_table1_3dpw_model.yaml --gpu 0
 ```
 
 Change the `TRAIN.PRETRAINED` field of the config file to the checkpoint you would like to evaluate.
@@ -69,10 +69,10 @@ Run the commands below to start running the demo:
 
 ```bash
 # Run on a local video
-python demo.py --vid_file sample_video.mp4 --output_folder output/ --display
+python demo.py --vid_file sample_video.mp4 --gpu 0
 
 # Run on a YouTube video
-python demo.py --vid_file https://www.youtube.com/watch?v=wPZP8Bwxplo --output_folder output/ --display
+python demo.py --vid_file https://www.youtube.com/watch?v=wPZP8Bwxplo --gpu 0
 ```
 
 ### Citation
