@@ -12,7 +12,7 @@ Check our YouTube videos below for 5 minute video presentation of our work.
 
 This implementation has the demo and evaluation code for MPS-Net implemented in PyTorch.
 
-The base codes are largely borrowed from [VIBE](https://github.com/mkocabas/VIBE) and [TCMR](https://github.com/hongsukchoi/TCMR_RELEASE).
+
 
 
 
@@ -73,3 +73,6 @@ This project is licensed under the terms of the MIT license.
   year = {2022}
 }
 ```
+
+## References
+The base codes are largely borrowed from great resources [VIBE](https://github.com/mkocabas/VIBE) and [TCMR](https://github.com/hongsukchoi/TCMR_RELEASE).
