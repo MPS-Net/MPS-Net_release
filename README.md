@@ -30,7 +30,7 @@ source scripts/install_conda.sh
 
 ### Getting Started
 
-First, you need download the required data(i.e our trained model and SMPL model parameters). To do this you can just run:
+First, you need download the required data. To do this you can just run:
 
 ```bash
 source scripts/prepare_data.sh
