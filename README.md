@@ -69,7 +69,6 @@ We have prepared a demo code to run MPS-Net on arbitrary videos.
 To do this you can just run:
 
 ```bash
-# Run on a local video
 python demo.py --vid_file sample_video.mp4 --gpu 0
 ```
 
