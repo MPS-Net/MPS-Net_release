@@ -87,4 +87,5 @@ python demo.py --vid_file sample_video.mp4 --gpu 0
 ### License
 This project is licensed under the terms of the MIT license.
 
-
+## References
+The base codes are largely borrowed from great resources [VIBE](https://github.com/mkocabas/VIBE) and [TCMR](https://github.com/hongsukchoi/TCMR_RELEASE).
