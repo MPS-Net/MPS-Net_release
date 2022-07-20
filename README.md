@@ -58,7 +58,7 @@ Change the `TRAIN.PRETRAINED` field of the config file to the checkpoint you wou
 You should be able to obtain the output below:
 
 ```shell script
-# TRAIN.PRETRAINED = 'data/vibe_data/vibe_model_wo_3dpw.pth.tar'
+# TRAIN.PRETRAINED = 'data/base_data/mpsnet_model_best.pth.tar'
 ...Evaluating on 3DPW test set...
 PA-MPJPE: 52.1, MPJPE: 84.3, MPVPE: 99.7, ACC-ERR: 7.4
 ```
