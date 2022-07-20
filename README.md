@@ -65,7 +65,8 @@ PA-MPJPE: 52.1, MPJPE: 84.3, MPVPE: 99.7, ACC-ERR: 7.4
 
 ### Running the Demo
 
-Run the commands below to start running the demo:
+We have prepared a nice demo code to run VIBE on arbitrary videos. 
+To do this you can just run the demo is as simple as:
 
 ```bash
 # Run on a local video
