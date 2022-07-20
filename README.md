@@ -65,8 +65,8 @@ PA-MPJPE: 52.1, MPJPE: 84.3, MPVPE: 99.7, ACC-ERR: 7.4
 
 ### Running the Demo
 
-We have prepared a nice demo code to run VIBE on arbitrary videos. 
-To do this you can just run the demo is as simple as:
+We have prepared a demo code to run MPS-Net on arbitrary videos. 
+To do this you can just run:
 
 ```bash
 # Run on a local video
