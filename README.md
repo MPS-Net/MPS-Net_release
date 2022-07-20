@@ -40,12 +40,6 @@ ${ROOT}
 |   |-- preprocessed_data  
 ```
 
-To do this you can just run:
-
-```bash
-source scripts/prepare_data.sh
-```
-
 ### Evaluation
 
 Run the commands below to evaluate a pretrained model.
