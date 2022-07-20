@@ -70,9 +70,6 @@ Run the commands below to start running the demo:
 ```bash
 # Run on a local video
 python demo.py --vid_file sample_video.mp4 --gpu 0
-
-# Run on a YouTube video
-python demo.py --vid_file https://www.youtube.com/watch?v=wPZP8Bwxplo --gpu 0
 ```
 
 ### Citation
