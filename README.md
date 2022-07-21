@@ -40,12 +40,9 @@ Run the commands below to evaluate a pretrained model.
 python evaluate.py --dataset 3dpw --cfg ./configs/repr_table1_3dpw_model.yaml --gpu 0
 ```
 
-Change the `TRAIN.PRETRAINED` field of the config file to the checkpoint you would like to evaluate.
 You should be able to obtain the output below:
 
 ```shell script
-# TRAIN.PRETRAINED = 'data/base_data/mpsnet_model_best.pth.tar'
-...Evaluating on 3DPW test set...
 PA-MPJPE: 52.1, MPJPE: 84.3, MPVPE: 99.7, ACC-ERR: 7.4
 ```
 
