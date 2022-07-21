@@ -1,4 +1,4 @@
-## Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video [CVPR 2022]
+# Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video [CVPR 2022]
 
 Our **M**otion **P**ose and **S**hape **N**etwork (MPS-Net) is to effectively capture humans in motion to estimate accurate and temporally coherent 3D human pose and shape from a video.
 
@@ -8,27 +8,33 @@ Check our YouTube videos below for 5 minute video presentation of our work.
 
 [![PaperVideo](https://github.com/MPS-Net/MPS-Net/blob/gh-pages/Fig.png)](https://www.youtube.com/watch?v=lBZikM1vM60)
 
-### Installation instructions
+## Getting Started
 
-MPS-Net has been implemented and tested on Ubuntu 18.04 with python >= 3.7. 
-
-Install the requirements using `virtualenv` or `conda`:
-```bash
-# pip
-source scripts/install_pip.sh
-
-# conda
-source scripts/install_conda.sh
-```
-
-### Getting Started
-
-This implementation has the demo and evaluation code for MPS-Net implemented in PyTorch.
+MPS-Net has been implemented and tested on Ubuntu 18.04 with python >= 3.7. It supports both GPU and CPU inference.
 
 Clone the repo:
 ```bash
 git clone https://github.com/MPS-Net/MPS-Net_release.git
 ```
+
+## Installation
+
+Install the requirements using `virtualenv`:
+
+```bash
+cd $PWD/MPS-Net_release
+source scripts/install_pip.sh
+```
+
+## Download the Required Data
+
+```bash
+source scripts/get_base_data.sh
+```
+
+
+
+
 
 First, you need download the required data and the pre-trained MPS-Net model from [here](https://drive.google.com/drive/folders/1YTdq-9vP3E_eGDZXhxbHmxqDY6UIN_Cb?usp=sharing). 
 
