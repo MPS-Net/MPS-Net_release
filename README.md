@@ -46,10 +46,10 @@ ${ROOT}
 |   |-- preprocessed_data  
 ```
 
-
 ## Evaluation
 
-Run the commands below to evaluate a pretrained model.
+Run the commands below to evaluate a pretrained model on 3DPW test set.
+
 ```bash
 # dataset: 3dpw
 python evaluate.py --dataset 3dpw --cfg ./configs/repr_table1_3dpw_model.yaml --gpu 0
