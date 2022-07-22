@@ -81,7 +81,7 @@ python demo.py --vid_file sample_video.mp4 --gpu 0
 Sample demo output:
 
 <p float="left">
-  <img src="assets/MPS-Net_sample_video_output.mp4" width="30%" />
+  <img src="assets/MPS-Net_sample_video_output.gif" width="30%" />
 </p>
 
 ## Citation
