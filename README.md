@@ -26,6 +26,14 @@ cd $PWD/MPS-Net_release
 source scripts/install_pip.sh
 ```
 
+or 
+
+Install the requirements using `conda`:
+
+```bash
+source scripts/install_conda.sh
+```
+
 ## Download the Required Data
 
 You can just run:
