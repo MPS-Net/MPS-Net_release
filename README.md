@@ -78,6 +78,12 @@ To do this you can just run:
 python demo.py --vid_file sample_video.mp4 --gpu 0
 ```
 
+Sample demo output:
+
+<p float="left">
+  <img src="doc/assets/sample_video.gif" width="30%" />
+</p>
+
 ## Citation
 
 ```bibtex
