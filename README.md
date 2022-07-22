@@ -61,7 +61,7 @@ You should be able to obtain the output below:
 PA-MPJPE: 52.1, MPJPE: 84.3, MPVPE: 99.7, ACC-ERR: 7.4
 ```
 
-### Running the Demo
+## Running the Demo
 
 We have prepared a demo code to run MPS-Net on arbitrary videos. 
 To do this you can just run:
@@ -70,7 +70,7 @@ To do this you can just run:
 python demo.py --vid_file sample_video.mp4 --gpu 0
 ```
 
-### Citation
+## Citation
 
 ```bibtex
 @inproceedings{WeiLin2022mpsnet,
@@ -82,8 +82,8 @@ python demo.py --vid_file sample_video.mp4 --gpu 0
 }
 ```
 
-### License
+## License
 This project is licensed under the terms of the MIT license.
 
-### References
+## References
 The base codes are largely borrowed from great resources [VIBE](https://github.com/mkocabas/VIBE) and [TCMR](https://github.com/hongsukchoi/TCMR_RELEASE).
