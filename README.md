@@ -31,6 +31,7 @@ or
 Install the requirements using `conda`: (Windows Setup with python 3 and Anaconda)
 
 ```bash
+cd MPS-Net_release
 source scripts/install_conda.sh
 ```
 
