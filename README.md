@@ -8,27 +8,39 @@ Check our YouTube videos below for 5 minute video presentation of our work.
 
 [![PaperVideo](https://github.com/MPS-Net/MPS-Net/blob/gh-pages/Fig.png)](https://www.youtube.com/watch?v=lBZikM1vM60)
 
-## Getting Started
-
-MPS-Net has been implemented and tested on Ubuntu 18.04 with python >= 3.7. It supports both GPU and CPU inference.
+## Getting Started [Linux Setup with virtualenv]
 
 Clone the repo:
 ```bash
 git clone https://github.com/MPS-Net/MPS-Net_release.git
 ```
 
-## Installation
-
-Install the requirements using `virtualenv`: (Linux Setup with virtualenv)
+Install the requirements using `virtualenv`: 
 
 ```bash
 cd $PWD/MPS-Net_release
 source scripts/install_pip.sh
 ```
 
-or 
+## Getting Started [Windows Setup with python 3 and Anaconda]
 
-Install the requirements using `conda`: (Windows Setup with python 3 and Anaconda)
+Install the requirements using `conda`:
+
+Download and install Anaconda from [here](https://www.anaconda.com/products/distribution#windows)
+
+```bash
+cmd
+winget install --id Git.Git -e --source winget
+```
+
+open Git Bash
+
+Clone the repo:
+```bash
+git clone https://github.com/MPS-Net/MPS-Net_release.git
+```
+
+Install the requirements using `conda`: 
 
 ```bash
 cd MPS-Net_release
