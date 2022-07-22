@@ -91,10 +91,16 @@ To do this you can just run:
 python demo.py --vid_file sample_video.mp4 --gpu 0
 ```
 
-Sample demo output:
+sample_video.mp4 demo output:
 
 <p float="left">
   <img src="assets/MPS-Net_sample_video_output.gif" width="30%" />
+</p>
+
+sample_video2.mp4 demo output:
+
+<p float="left">
+  <img src="assets/MPS-Net_sample_video2_output.gif" width="30%" />
 </p>
 
 ## Citation
