@@ -25,7 +25,7 @@ source scripts/install_pip.sh
 source scripts/get_base_data.sh
 ```
 
-## Installation & Download the Required Data [Windows --> Anaconda Powershell Prompt]
+## Installation & Download the Required Data [Windows --> Anaconda Powershell Prompt (Anaconda3)]
 
 Install the requirements using `conda`:  
 
