@@ -24,14 +24,13 @@ source scripts/install_pip.sh
 
 ## Getting Started [Windows Setup with python 3 and Anaconda]
 
-Download and install Anaconda from [here](https://www.anaconda.com/products/distribution#windows)
+First, download and install Anaconda from [here](https://www.anaconda.com/products/distribution#windows). Then, open Git Bash: (if need)
 
 ```bash
 cmd
 winget install --id Git.Git -e --source winget
+start "" "%PROGRAMFILES%\Git\git-bash.exe"
 ```
-
-Open Git Bash
 
 Clone the repo:
 ```bash
