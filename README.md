@@ -31,7 +31,7 @@ cmd
 winget install --id Git.Git -e --source winget
 ```
 
-open Git Bash
+Open Git Bash
 
 Clone the repo:
 ```bash
