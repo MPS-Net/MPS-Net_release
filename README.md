@@ -24,7 +24,7 @@ source scripts/install_pip.sh
 
 ## Getting Started [Windows Setup with python 3 and Anaconda]
 
-First, download and install Anaconda from [here](https://www.anaconda.com/products/distribution#windows). Then, open Git Bash: (if need)
+First, download and install Anaconda from [here](https://www.anaconda.com/products/distribution#windows). Then, open `Git Bash`: (if need)
 
 ```bash
 cmd
