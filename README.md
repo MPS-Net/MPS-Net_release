@@ -8,51 +8,31 @@ Check our YouTube videos below for 5 minute video presentation of our work.
 
 [![PaperVideo](https://github.com/MPS-Net/MPS-Net/blob/gh-pages/Fig.png)](https://www.youtube.com/watch?v=lBZikM1vM60)
 
-## Getting Started [Linux Setup with virtualenv]
+## Getting Started 
 
 Clone the repo:
 ```bash
 git clone https://github.com/MPS-Net/MPS-Net_release.git
 ```
+
+## Installation & Download the Required Data [Ubuntu --> Terminal]
 
 Install the requirements using `virtualenv`: 
 
 ```bash
 cd $PWD/MPS-Net_release
 source scripts/install_pip.sh
+source scripts/get_base_data.sh
 ```
 
-## Getting Started [Windows Setup with python 3 and Anaconda]
+## Installation & Download the Required Data [Windows --> Anaconda Powershell Prompt]
 
-First, download and install Anaconda from [here](https://www.anaconda.com/products/distribution#windows). Then, open `Git Bash`: (if need)
-
-```bash
-cmd
-winget install --id Git.Git -e --source winget
-start "" "%PROGRAMFILES%\Git\git-bash.exe"
-```
-
-Clone the repo:
-```bash
-git clone https://github.com/MPS-Net/MPS-Net_release.git
-```
-
-Install the requirements using `conda`: 
+Install the requirements using `conda`:  
 
 ```bash
 cd MPS-Net_release
 source scripts/install_conda.sh
 ```
-
-## Download the Required Data
-
-You can just run:
-
-```bash
-source scripts/get_base_data.sh
-```
-
-or 
 
 You can download the required data and the pre-trained MPS-Net model from [here](https://drive.google.com/drive/folders/1YTdq-9vP3E_eGDZXhxbHmxqDY6UIN_Cb?usp=sharing). 
 The data directory structure should follow the below hierarchy.
