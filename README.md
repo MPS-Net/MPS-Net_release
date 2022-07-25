@@ -10,7 +10,7 @@ Check our YouTube videos below for 5 minute video presentation of our work.
 
 ## Getting Started 
 
-MPS-Net has been implemented and tested on Ubuntu 18.04 with python >= 3.7. It supports both GPU and CPU inference.
+MPS-Net has been implemented and tested on Ubuntu 18.04 with python >= 3.7.
 
 Clone the repo:
 ```bash
