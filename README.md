@@ -37,7 +37,7 @@ source scripts/get_base_data.sh
 or
 
 You can download the required data and the pre-trained MPS-Net model from [here](https://drive.google.com/drive/folders/1YTdq-9vP3E_eGDZXhxbHmxqDY6UIN_Cb?usp=sharing). 
-The data directory structure should follow the below hierarchy.
+You need to unzip the contents and the data directory structure should follow the below hierarchy.
 
 ```
 ${ROOT}  
