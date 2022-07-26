@@ -76,6 +76,10 @@ sample_video.mp4 demo output:
   <img src="assets/MPS-Net_sample_video_output.gif" width="30%" />
 </p>
 
+```bash
+python demo.py --vid_file sample_video2.mp4 --gpu 0
+```
+
 sample_video2.mp4 demo output:
 
 <p float="left">
