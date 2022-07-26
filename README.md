@@ -4,7 +4,7 @@ Our **M**otion **P**ose and **S**hape **N**etwork (MPS-Net) is to effectively ca
 
 Pleaser refer to our [arXiv report](https://arxiv.org/abs/2203.08534) for further details.
 
-Check our YouTube videos below for 5 minute video presentation of our work.
+Check our YouTube video below for 5 minute video presentation of our work.
 
 [![PaperVideo](https://github.com/MPS-Net/MPS-Net/blob/gh-pages/Fig.png)](https://www.youtube.com/watch?v=lBZikM1vM60)
 
