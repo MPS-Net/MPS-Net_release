@@ -10,14 +10,12 @@ Check our YouTube video below for 5 minute video presentation of our work.
 
 ## Getting Started 
 
+#### Installation [Environment on Linux (Ubuntu 18.04 with python >= 3.7)]
+
 Clone the repo:
 ```bash
 git clone https://github.com/MPS-Net/MPS-Net_release.git
 ```
-
-## Installation
-
-#### [Environment on Linux (Ubuntu 18.04 with python >= 3.7)]
 
 Install the requirements using `virtualenv`: 
 
@@ -27,16 +25,24 @@ source scripts/install_pip.sh
 ```
 or
 
-#### [Windows + Anaconda + Git Bash]
+#### Installation [Windows + Anaconda + Git Bash]
 
 Download and install Anaconda:  https://www.anaconda.com/products/distribution#windows
 
 Installing Git Bash: 
+
 ```bash
 cmd
 winget install --id Git.Git -e --source winget
 ```
+
+Clone the repo:
+```bash
+git clone https://github.com/MPS-Net/MPS-Net_release.git
+```
+
 Install the requirements using `conda`: 
+
 ```bash
 cd $PWD/MPS-Net_release
 source scripts/install_conda.sh
