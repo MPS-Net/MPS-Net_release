@@ -30,7 +30,8 @@ or
 # Installing Git Bash: 
 cmd
 winget install --id Git.Git -e --source winget
-# Launch Git Bash
+
+# Open Git Bash
 
 # Clone the repo:
 git clone https://github.com/MPS-Net/MPS-Net_release.git
