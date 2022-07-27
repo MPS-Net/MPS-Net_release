@@ -27,6 +27,14 @@ or
 
 Install the requirements using `conda`: [Windows + Anaconda + Git Bash]
 
+Download and install Anaconda:  https://www.anaconda.com/products/distribution#windows
+
+Installing Git Bash: 
+```bash
+cmd
+winget install --id Git.Git -e --source winget
+```
+
 ```bash
 cd $PWD/MPS-Net_release
 source scripts/install_pip.sh
