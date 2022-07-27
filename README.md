@@ -31,7 +31,7 @@ or
 cmd
 winget install --id Git.Git -e --source winget
 
-# Launch Git Bash from Windows
+# Launch Git Bash from Windows:
 start "" "%PROGRAMFILES%\Git\bin\sh.exe" --login
 
 # Clone the repo:
