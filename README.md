@@ -39,7 +39,7 @@ winget install --id Git.Git -e --source winget
 Install the requirements using `conda`: 
 ```bash
 cd $PWD/MPS-Net_release
-source scripts/install_pip.sh
+source scripts/install_conda.sh
 ```
 
 ## Download the Required Data 
