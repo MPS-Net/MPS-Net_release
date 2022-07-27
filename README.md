@@ -27,7 +27,7 @@ source scripts/install_pip.sh
 ```
 or
 
-Install the requirements using `conda`: [Windows Setup with Anaconda + Git Bash]
+Install the requirements using `conda`: [Windows + Anaconda + Git Bash]
 
 ```bash
 cd $PWD/MPS-Net_release
