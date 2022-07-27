@@ -19,9 +19,7 @@ git clone https://github.com/MPS-Net/MPS-Net_release.git
 
 ## Installation
 
-[Linux Setup with virtualenv]
-
-Install the requirements using `virtualenv`: 
+Install the requirements using `virtualenv`: [Linux Setup with virtualenv]
 
 ```bash
 cd $PWD/MPS-Net_release
@@ -29,9 +27,7 @@ source scripts/install_pip.sh
 ```
 or
 
-[Windows Setup with Anaconda]
-
-Install the requirements using `conda`: 
+Install the requirements using `conda`: [Windows Setup with Anaconda]
 
 ```bash
 cd $PWD/MPS-Net_release
