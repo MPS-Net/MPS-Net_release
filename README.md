@@ -19,7 +19,6 @@ git clone https://github.com/MPS-Net/MPS-Net_release.git
 # Install the requirements using `virtualenv`: 
 cd $PWD/MPS-Net_release
 source scripts/install_pip.sh
-deactivate
 ```
 or
 
@@ -41,7 +40,6 @@ git clone https://github.com/MPS-Net/MPS-Net_release.git
 #Install the requirements using `conda`: 
 cd $PWD/MPS-Net_release
 source scripts/install_conda.sh
-conda deactivate
 ```
 
 ## Download the Required Data 
@@ -70,7 +68,6 @@ Run the commands below to evaluate a pretrained model on 3DPW test set.
 
 ```bash
 # dataset: 3dpw
-conda activate mps-env
 python evaluate.py --dataset 3dpw --cfg ./configs/repr_table1_3dpw_model.yaml --gpu 0
 ```
 
