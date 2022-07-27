@@ -19,6 +19,7 @@ git clone https://github.com/MPS-Net/MPS-Net_release.git
 # Install the requirements using `virtualenv`: 
 cd $PWD/MPS-Net_release
 source scripts/install_pip.sh
+deactivate
 ```
 or
 
