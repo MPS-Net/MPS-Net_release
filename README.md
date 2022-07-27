@@ -27,6 +27,7 @@ Install the requirements using `virtualenv`:
 cd $PWD/MPS-Net_release
 source scripts/install_pip.sh
 ```
+or
 
 [Windows Setup with Anaconda]
 
