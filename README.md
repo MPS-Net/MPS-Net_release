@@ -25,7 +25,7 @@ or
 #### Installation & Clone the repo [Windows + Anaconda + Git Bash]
 
 ```bash
-# Download and install Anaconda:  https://www.anaconda.com/products/distribution#windows
+# Download and installing Anaconda on Windows:  https://www.anaconda.com/products/distribution#windows
 
 # Installing Git Bash: 
 cmd
