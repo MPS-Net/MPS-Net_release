@@ -10,8 +10,6 @@ Check our YouTube video below for 5 minute video presentation of our work.
 
 ## Getting Started 
 
-MPS-Net has been implemented and tested on Ubuntu 18.04 with python >= 3.7.
-
 Clone the repo:
 ```bash
 git clone https://github.com/MPS-Net/MPS-Net_release.git
@@ -19,7 +17,7 @@ git clone https://github.com/MPS-Net/MPS-Net_release.git
 
 ## Installation
 
-Install the requirements using `virtualenv`: [Linux Setup with virtualenv]
+Install the requirements using `virtualenv`: [Environment on Linux (Ubuntu 18.04 with python >= 3.7)]
 
 ```bash
 cd $PWD/MPS-Net_release
