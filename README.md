@@ -37,7 +37,7 @@ start "" "%PROGRAMFILES%\Git\bin\sh.exe" --login
 # Clone the repo:
 git clone https://github.com/MPS-Net/MPS-Net_release.git
 
-#Install the requirements using `conda`: 
+# Install the requirements using `conda`: 
 cd $PWD/MPS-Net_release
 source scripts/install_conda.sh
 ```
