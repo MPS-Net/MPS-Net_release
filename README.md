@@ -10,40 +10,31 @@ Check our YouTube video below for 5 minute video presentation of our work.
 
 ## Getting Started 
 
-#### Installation [Environment on Linux (Ubuntu 18.04 with python >= 3.7)]
+#### Installation & Clone the repo [Environment on Linux (Ubuntu 18.04 with python >= 3.7)]
 
-Clone the repo:
 ```bash
+# Clone the repo:
 git clone https://github.com/MPS-Net/MPS-Net_release.git
-```
 
-Install the requirements using `virtualenv`: 
-
-```bash
+# Install the requirements using `virtualenv`: 
 cd $PWD/MPS-Net_release
 source scripts/install_pip.sh
 ```
 or
 
-#### Installation [Windows + Anaconda + Git Bash]
+#### Installation & Clone the repo [Windows + Anaconda + Git Bash]
 
 Download and install Anaconda:  https://www.anaconda.com/products/distribution#windows
 
-Installing Git Bash: 
-
 ```bash
+# Installing Git Bash: 
 cmd
 winget install --id Git.Git -e --source winget
-```
 
-Clone the repo:
-```bash
+# Clone the repo:
 git clone https://github.com/MPS-Net/MPS-Net_release.git
-```
 
-Install the requirements using `conda`: 
-
-```bash
+#Install the requirements using `conda`: 
 cd $PWD/MPS-Net_release
 source scripts/install_conda.sh
 ```
