@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+sudo apt install python3.7-venv
 echo "Creating virtual environment"
 python3.7 -m venv mps-env
 echo "Activating virtual environment"
